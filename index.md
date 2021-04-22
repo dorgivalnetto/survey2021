@@ -12,7 +12,7 @@
 
 <hr>
 
-### Survey Principles and Participation
+**Survey Principles and Participation**
 
 <p align=justify> Please note that the survey is entirely anonymous, and we apply the highest academic standards and the data collection and data analysis.
 
