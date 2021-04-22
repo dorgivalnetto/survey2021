@@ -22,7 +22,7 @@
 
 <hr>
 
-### Structure of the survey
+**Structure of the survey**
 
 <p align=justify> The survey includes several questions structured into the following categories: General information about your profile as an IT professional.
 
@@ -36,7 +36,7 @@
 
 <hr>
   
-### Informed consent (IC)
+**Informed consent (IC)**
 
 <p align=justify> 1. I understand that all information is confidential. I will not be personally identified. I agree to complete the survey for research purposes and that the data derived from this anonymous survey may be published in journals, conferences, and author Ph.D. Thesis.
 
@@ -48,7 +48,7 @@
 
 <hr>
 
-### Support or Contact
+**Support or Contact**
 
 Having trouble with Pages? 
 
