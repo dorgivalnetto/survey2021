@@ -1,4 +1,4 @@
-## Welcome
+## Survey summary : Survey about How Information Technology Practitioners Perform Requirements Specification Addressing Ambiguity Resolution and Compliance with Data Protection Laws
 
 <p align=justify> Dear survey participant, thank you very much for sparing 20 minutes of your time to answer our questionnaire.
 
@@ -10,6 +10,7 @@
   
   Prof. Dr. Carla Silva (supporting scientist - Federal University of Pernambuco) 
 
+<hr>
 
 ### Survey Principles and Participation
 
@@ -19,6 +20,7 @@
 
 <p align=justify> Finally, we will ask you a series of specific questions directed at your experiences made in projects with Data Protection Laws, Privacy Requirements Specification, Addressing Ambiguity Resolution, and Compliance in the organization that your work. That is, if not stated otherwise, please refer to your experiences in your most recent software development iteration.
 
+<hr>
 
 ### Structure of the survey
 
@@ -32,17 +34,19 @@
 
 <p align=justify> In any case, please rest assured that the survey follows a high academic standard and is conducted anonymously, and the address will be removed from the data set during the export so that no association with your answers will be possible.  
 
-
+<hr>
+  
 ### Informed consent (IC)
 
-**1.** <p align=justify> I understand that all information is confidential. I will not be personally identified. I agree to complete the survey for research purposes and that the data derived from this anonymous survey may be published in journals, conferences, and author Ph.D. Thesis.
+<p align=justify> 1. I understand that all information is confidential. I will not be personally identified. I agree to complete the survey for research purposes and that the data derived from this anonymous survey may be published in journals, conferences, and author Ph.D. Thesis.
 
-**2.** <p align=justify> I understand that my participation in this research survey is voluntary and that declining to participate will involve no penalty or loss of benefits. If I choose, I may withdraw my participation at any time. I also understand that I may decline to answer any questions that I am not comfortable answering if I choose to participate.
+<p align=justify> 2. I understand that my participation in this research survey is voluntary and that declining to participate will involve no penalty or loss of benefits. If I choose, I may withdraw my participation at any time. I also understand that I may decline to answer any questions that I am not comfortable answering if I choose to participate.
 
-**3.** <p align=justify> I understand that I can contact the researchers if I have any questions about the research survey. I am aware that my consent will not directly benefit me. I am also aware that the author will maintain the data collected in perpetuity and may utilize data for future academic work.
+<p align=justify> 3. I understand that I can contact the researchers if I have any questions about the research survey. I am aware that my consent will not directly benefit me. I am also aware that the author will maintain the data collected in perpetuity and may utilize data for future academic work.
 
-**4.** <p align=justify> By clicking the button below, I freely provide consent and acknowledge my rights as a voluntary research participant as outlined above and provide consent to the researchers to use my information in researching the areas noted above and start with the survey.
+<p align=justify> 4. By clicking the button below, I freely provide consent and acknowledge my rights as a voluntary research participant as outlined above and provide consent to the researchers to use my information in researching the areas noted above and start with the survey.
 
+<hr>
 
 ### Support or Contact
 
