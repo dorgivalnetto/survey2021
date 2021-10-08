@@ -74,6 +74,7 @@
 
 <img src="https://user-images.githubusercontent.com/1128903/136497503-bcb22ff7-8583-4fc1-82cb-88c8985c9602.jpg" class="img-responsive" alt="">  <br>
 
+<hr>
 
 ### Support or Contact
 
