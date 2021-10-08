@@ -1,4 +1,4 @@
-## Survey summary : Survey about How Information Technology Practitioners Perform Requirements Specification Addressing Ambiguity Resolution and Compliance with Data Protection Laws
+## Survey summary : Survey about How Information Technology Companies AddressAmbiguity Resolution and Compliance with DataProtection Laws in Requirements Specification
 
 <p align=justify> Dear survey participant, thank you very much for sparing 20 minutes of your time to answer our questionnaire.
 
@@ -48,8 +48,30 @@
 
 <hr>
 
+### Survey Checklist**
+
+[Survey checklist.pdf](https://github.com/dorgivalnetto/survey2021/files/7308325/Survey_checklist.Dorgival.xlsx.-.Survey.pdf)
+
+<hr>
+
+### Survey Plan**
+
+[Survey Plan.pdf](https://github.com/dorgivalnetto/survey2021/files/7308421/Survey.Plan.pdf)
+
+<hr>
+
+### Survey Questions**
+
+[Survey Questions.pdf](https://github.com/dorgivalnetto/survey2021/files/7308292/Survey.ingles.pdf)
+
+<hr>
+
 ### Support or Contact**
 
 Having trouble with Pages? 
 
 <p>Please contact <a href="mailto:dpsn2@cin.ufpe.br">Dorgival Netto</a> for further assistance.</p>
+
+
+
+
