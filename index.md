@@ -50,19 +50,19 @@
 
 ### Survey Checklist
 
-[Survey checklist.pdf](https://github.com/dorgivalnetto/survey2021/files/7308325/Survey_checklist.Dorgival.xlsx.-.Survey.pdf)
+<a href= "https://github.com/dorgivalnetto/survey2021/files/7308325/Survey_checklist.Dorgival.xlsx.-.Survey.pdf">[Survey Checklist.pdf] </a>
 
 <hr>
 
 ### Survey Plan
 
-[Survey Plan.pdf](https://github.com/dorgivalnetto/survey2021/files/7308421/Survey.Plan.pdf)
+<a href= "https://github.com/dorgivalnetto/survey2021/files/7308421/Survey.Plan.pdf">[Survey Plan.pdf] </a>
 
 <hr>
 
 ### Survey Questions
 
-<a href=https://github.com/dorgivalnetto/survey2021/files/7308292/Survey.ingles.pdf>[Survey Questions.pdf] </a>
+<a href= "https://github.com/dorgivalnetto/survey2021/files/7308292/Survey.ingles.pdf">[Survey Questions.pdf] </a>
 
 <hr>
 
