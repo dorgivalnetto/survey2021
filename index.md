@@ -36,7 +36,7 @@
 
 <hr>
   
-### Informed consent (IC)**
+### Informed consent (IC)
 
 <p align=justify> 1. I understand that all information is confidential. I will not be personally identified. I agree to complete the survey for research purposes and that the data derived from this anonymous survey may be published in journals, conferences, and author Ph.D. Thesis.
 
@@ -48,21 +48,21 @@
 
 <hr>
 
-### Survey Checklist**
+### Survey Checklist
 
 [Survey checklist.pdf](https://github.com/dorgivalnetto/survey2021/files/7308325/Survey_checklist.Dorgival.xlsx.-.Survey.pdf)
 
 <hr>
 
-### Survey Plan**
+### Survey Plan
 
 [Survey Plan.pdf](https://github.com/dorgivalnetto/survey2021/files/7308421/Survey.Plan.pdf)
 
 <hr>
 
-### Survey Questions**
+### Survey Questions
 
-[Survey Questions.pdf](https://github.com/dorgivalnetto/survey2021/files/7308292/Survey.ingles.pdf)
+<a href=https://github.com/dorgivalnetto/survey2021/files/7308292/Survey.ingles.pdf>[Survey Questions.pdf] </a>
 
 <hr>
 
