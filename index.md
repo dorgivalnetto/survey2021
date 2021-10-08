@@ -66,12 +66,17 @@
 
 <hr>
 
-### Support or Contact**
+### Theory
+
+![constructs](https://user-images.githubusercontent.com/1128903/136497686-8a56a83f-82f8-41f9-bb10-2c93c883575c.PNG)
+
+![propositions](https://user-images.githubusercontent.com/1128903/136497694-0f7b5bcd-1aa6-4080-afad-3e4f30344e0d.PNG)
+
+![Theory](https://user-images.githubusercontent.com/1128903/136497503-bcb22ff7-8583-4fc1-82cb-88c8985c9602.jpg)
+
+
+### Support or Contact
 
 Having trouble with Pages? 
 
 <p>Please contact <a href="mailto:dpsn2@cin.ufpe.br">Dorgival Netto</a> for further assistance.</p>
-
-
-
-
