@@ -68,11 +68,11 @@
 
 ### Theory
 
-<img src="https://user-images.githubusercontent.com/1128903/136497686-8a56a83f-82f8-41f9-bb10-2c93c883575c.PNG" class="img-responsive" alt=""> </div>
+<img src="https://user-images.githubusercontent.com/1128903/136497686-8a56a83f-82f8-41f9-bb10-2c93c883575c.PNG" class="img-responsive" alt=""> <br>
 
-<img src="https://user-images.githubusercontent.com/1128903/136497694-0f7b5bcd-1aa6-4080-afad-3e4f30344e0d.PNG" class="img-responsive" alt=""> </div>
+<img src="https://user-images.githubusercontent.com/1128903/136497694-0f7b5bcd-1aa6-4080-afad-3e4f30344e0d.PNG" class="img-responsive" alt="">  <br>
 
-<img src="https://user-images.githubusercontent.com/1128903/136497503-bcb22ff7-8583-4fc1-82cb-88c8985c9602.jpg" class="img-responsive" alt=""> </div>
+<img src="https://user-images.githubusercontent.com/1128903/136497503-bcb22ff7-8583-4fc1-82cb-88c8985c9602.jpg" class="img-responsive" alt="">  <br>
 
 
 ### Support or Contact
